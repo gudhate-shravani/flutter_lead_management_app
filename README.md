@@ -1,8 +1,8 @@
-🚀 Mini Lead Manager App
+**🚀 Mini Lead Manager App**
 
 
 
-1. App Overview 🎯
+*1. App Overview 🎯*
 
 This project is a small CRM-style Lead Management App built with Flutter to evaluate practical skills in UI, state management, persistent storage, and clean architecture.
 
